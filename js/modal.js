@@ -1,4 +1,4 @@
-const modalButton = document.querySelectorAll('a, button')
+const modalButton = document.querySelectorAll('a, .button')
 const modalWindow = document.querySelector('.modal__window')
 const modalSpan = document.querySelector('.modal__button span')
 const body = document.querySelector('body')
